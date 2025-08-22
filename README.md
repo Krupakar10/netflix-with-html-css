@@ -1,2 +1,2 @@
-# netflix-with-html-css
+# Webpages
 webpage
